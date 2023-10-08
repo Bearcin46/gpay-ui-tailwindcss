@@ -9,7 +9,7 @@ export default {
       backgroundImage: {
         'hero-pattern': "url('../images/CIBIL-hero-banner.jpg')",
         
-      }
+      },
     },
   },
   plugins: [],
