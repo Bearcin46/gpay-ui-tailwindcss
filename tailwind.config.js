@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-pattern': "url('../images/CIBIL-hero-banner.jpg')",
+        'hero-pattern': "url('/public/images/gpay-footer-light.jpg')",
         
       },
     },
